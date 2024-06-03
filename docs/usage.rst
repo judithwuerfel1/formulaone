@@ -4,14 +4,10 @@ Usage
 Helpers
 ------------
 
-you can use the ``formulaone.helpers.get_path_to_data()`` function:
+``load_movies.helpers.get_items_from_table()``:
 
-.. autofunction:: formulaone.helpers.get_path_to_data
+.. autofunction:: load_movies.helpers.get_items_from_table
 
-Raw data folder is returned by ``formulaone.helpers.get_raw_data_path()`` function:
+``load_movies.helpers.get_dynamo_resource()``:
 
-.. autofunction:: formulaone.helpers.get_raw_data_path
-
-you can also use the ``formulaone.helpers.get_tidy_data_path()`` function:
-
-.. autofunction:: formulaone.helpers.get_tidy_data_path
+.. autofunction:: load_movies.helpers.get_dynamo_resource

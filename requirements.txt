@@ -1,8 +1,9 @@
 pytest
 sphinx
-ipykernel
-requests
-pandas
+ipykernel==6.29.4
+requests==2.31.0
+pandas==2.2.2
 pyarrow
 fastparquet
-scikit-learn
+scikit-learn==1.4.2
+json
